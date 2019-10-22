@@ -11,5 +11,9 @@ this is hte sample description
 ##How to contribute
 thsi is last change of today.
 
-end
+sample check for deployment
+end of the session
+
+SRK
+
 
